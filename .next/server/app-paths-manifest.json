@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/mint/page": "app/mint/page.js",
+  "/page": "app/page.js",
+  "/sbt/learn-more/page": "app/sbt/learn-more/page.js",
+  "/sbt/page": "app/sbt/page.js",
+  "/whitepaper/page": "app/whitepaper/page.js"
+}
